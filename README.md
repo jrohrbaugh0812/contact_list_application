@@ -1,4 +1,4 @@
-# ContactListApplication
+# Contact List Application
 
 A simple command-line application for managing contacts, including adding, sorting, and deleting entries. This project demonstrates fundamental C++ programming concepts, including user input handling, file operations, and basic data structures. 
 
