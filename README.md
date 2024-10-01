@@ -6,7 +6,9 @@ Prerequisites
 C++ Compiler (e.g., g++, clang, MSVC) 
 C++ Standard Library 
 
-Notes When you run the application, you will be prompted to access or create a contact list. 
+Notes 
+Visual Studio was used for this project. The files specifically for Visual Studio are included which allows for an easy setup if you are using Visual Studio. If you are using another IDE, you can ignore these Visual Studio specific files.
+When you run the application, you will be prompted to access or create a contact list. 
 Follow the on-screen instructions to manage your contacts. 
 The application will allow you to exit by responding to prompts. 
 
