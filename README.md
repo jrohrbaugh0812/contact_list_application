@@ -1,22 +1,32 @@
 # Contact List Application
+A command-line application for managing contacts, including adding, sorting, and deleting entries. This project showcases fundamental C++ programming concepts such as user input handling, file operations, and basic data structures.
 
-A simple command-line application for managing contacts, including adding, sorting, and deleting entries. This project demonstrates fundamental C++ programming concepts, including user input handling, file operations, and basic data structures. 
+## Features
+- Add new contacts with details such as name, number, address, and email.
+- Sort contacts by different fields (e.g., name, number) in ascending or descending order.
+- Delete existing contacts from the list.
+- Save and load contact lists from files for persistent storage.
 
-Prerequisites
+## Prerequisites
+- A C++ compiler (e.g., g++, clang, or MSVC)
+- A basic understanding of running C++ programs from the command line
+- The C++ Standard Library
 
-C++ Compiler (e.g., g++, clang, MSVC) 
-C++ Standard Library 
+## Setup and Usage
+1. Compiling the Application:
+- If using Visual Studio: Open the included Visual Studio solution files for an easy setup and build process.
+- If using another IDE or the command line:
 
-Notes 
+	-Compile the project using a C++ compiler, e.g., g++ -o contact_list main.cpp contact_list.cpp.			
+2. Running the Application:
+- Run the compiled executable.
+- Follow the on-screen prompts to either load an existing contact list or create a new one.
+- Manage your contacts by adding, sorting, or deleting entries as desired.
+- Exit the application by responding to prompts.
 
-Visual Studio was used for this project. The files specifically for Visual Studio are included which allows for an easy setup if you are using Visual Studio. If you are using another IDE, you can ignore these Visual Studio specific files.
+## Notes
+- Visual Studio-specific files are included in this repository for convenience. If you're using another development environment, you can safely ignore these files.
+- The application guides users through the process step-by-step via on-screen instructions.
 
-When you run the application, you will be prompted to access or create a contact list. 
-Follow the on-screen instructions to manage your contacts. 
-The application will allow you to exit by responding to prompts. 
-
-License
-
-This project is licensed under the MIT License - see the LICENSE file for details. 
-
-Contributions are welcome! If you have suggestions for improvements or features, feel free to fork the repository and submit a pull request.
+## License
+This project is licensed under the MIT License. See the LICENSE file for more details.
