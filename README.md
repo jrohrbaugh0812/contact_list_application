@@ -16,8 +16,7 @@ A command-line application for managing contacts, including adding, sorting, and
 1. Compiling the Application:
 	- If using Visual Studio: Open the included Visual Studio solution files for an easy setup and build process.
 	- If using another IDE or the command line:
-
-	- Compile the project using a C++ compiler, e.g., ``` g++ -o contact_list main.cpp contact_list.cpp. ```			
+		- Compile the project using a C++ compiler, e.g., ``` g++ -o contact_list main.cpp contact_list.cpp. ```			
 2. Running the Application:
 	- Run the compiled executable.
 	- Follow the on-screen prompts to either load an existing contact list or create a new one.
